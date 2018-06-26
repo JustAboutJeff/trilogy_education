@@ -1,0 +1,23 @@
+.true-false-form {
+  font-size: 1.5rem;
+}
+
+.true-false-fieldset {
+  border: #008ee2 2px solid;
+}
+
+.true-false-label {
+  margin: 1rem;
+  display: block;
+}
+
+.true-false-input {
+  width: 2rem;
+  height: 2rem;
+}
+
+@media all and (min-width: 37.5em) {
+  .true-false-form {
+    font-size: 2rem;
+  }
+}

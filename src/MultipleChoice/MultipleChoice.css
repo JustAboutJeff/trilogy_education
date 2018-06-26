@@ -1,0 +1,23 @@
+.multiple-choice-form {
+  font-size: 1.5rem;
+}
+
+.multiple-choice-fieldset {
+  border: #008ee2 2px solid;
+}
+
+.multiple-choice-label {
+  padding: 1rem;
+  display: block;
+}
+
+.multiple-choice-input {
+  width: 2rem;
+  height: 2rem;
+}
+
+@media all and (min-width: 37.5em) {
+  .multiple-choice-form {
+    font-size: 2rem;
+  }
+}
